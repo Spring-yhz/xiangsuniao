@@ -1,0 +1,7 @@
+#canvas{
+	display:block;
+	border:1px solid black;
+	margin:0 auto;
+	background-image:url(../images/bei1.jpg);
+	background-size:cover;
+}
